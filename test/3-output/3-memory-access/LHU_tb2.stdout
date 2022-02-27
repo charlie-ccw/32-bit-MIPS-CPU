@@ -1,0 +1,7 @@
+RAM : INIT : Loading RAM contents from test/1-binary/3-memory-access/lhu_tb2.txt
+TB : INFO : RAM_ACCESS: Read from 0xbfc00000, data: 0x94020034
+TB : INFO : RAM_ACCESS: Read from 0x00000034, data: 0x6768f080
+TB : INFO : RAM_ACCESS: Read from 0xbfc00004, data: 0x00000008
+TB : INFO : RAM_ACCESS: Read from 0xbfc00008, data: 0x00000000
+register_v0_final 00006768
+test/bus_cpu_tb.v:52: $finish called at 230 (1s)

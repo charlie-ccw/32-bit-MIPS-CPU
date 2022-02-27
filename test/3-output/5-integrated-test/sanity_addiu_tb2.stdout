@@ -1,0 +1,6 @@
+RAM : INIT : Loading RAM contents from test/1-binary/5-integrated-test/sanity_addiu_tb2.txt
+TB : INFO : RAM_ACCESS: Read from 0xbfc00000, data: 0x25020001
+TB : INFO : RAM_ACCESS: Read from 0xbfc00004, data: 0x03e00008
+TB : INFO : RAM_ACCESS: Read from 0xbfc00008, data: 0x25080000
+register_v0_final 00000001
+test/bus_cpu_tb.v:52: $finish called at 230 (1s)

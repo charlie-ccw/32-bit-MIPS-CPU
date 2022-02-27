@@ -1,0 +1,6 @@
+RAM : INIT : Loading RAM contents from test/1-binary/2-i-type/andi_tb3.txt
+TB : INFO : RAM_ACCESS: Read from 0xbfc00000, data: 0x30420000
+TB : INFO : RAM_ACCESS: Read from 0xbfc00004, data: 0x00000008
+TB : INFO : RAM_ACCESS: Read from 0xbfc00008, data: 0x00000000
+register_v0_final 00000000
+test/bus_cpu_tb.v:52: $finish called at 230 (1s)
